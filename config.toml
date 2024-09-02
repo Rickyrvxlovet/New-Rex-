@@ -1,0 +1,38 @@
+enable-magisk-update = false   # set this to false if you do not want to receive updates for the module in magisk app
+# parallel-jobs = 1
+# add 'enabled = false' for not patching a specific app or remove it from the config
+# see https://github.com/MatadorProBr/revanced-extended-magisk-module/blob/main/CONFIG.md for more detailed explanations
+
+# you can use rvmm-config-gen to generate a config
+
+[Ricktupe]
+build-mode = "module"
+# version = "19.25.39"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "Inotia RVX"
+arch = "arm64-v8a"
+included-patches = "'MaterialYou' 'Custom Shorts action buttons' 'Custom branding name for YouTube' 'Change version code' 'Visual preferences icons'"
+excluded-patches = "'Custom branding icon for YouTube' 'Theme'"
+patches-version = "v4.13.1-dev.3" # locks the patches version. default: latest available
+integrations-version = "v1.13.1-dev.3" #
+riplib = true
+
+[Redddddit]
+enabled = false
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "inotia00 ReVanced"
+arch = "arm64-v8a"
+
+[xxxx]
+enabled = false
+apkmirror-dlurl = "https://apkmirror.com/apk/x-corp/twitter/"
+patches-source = "crimera/piko"
+integrations-source = "crimera/revanced-integrations"
+rv-brand = "Crimera x"
+apkmirror-dpi = "120-480dpi"
+#arch = "arm64-v8a"
+

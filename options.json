@@ -1,0 +1,29 @@
+[
+  {
+    "patchName": "Visual preferences icons",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "extension"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom Shorts action buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "Outline"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTupe"
+      }
+    ]
+  }
+]
