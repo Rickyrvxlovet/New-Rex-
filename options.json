@@ -1,9 +1,23 @@
+        
 [
+  {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "bold"
+      },
+      {
+        "key": "BottomMargin",
+        "value": "2.5dip"
+      }
+    ]
+  },
   {
     "patchName": "Visual preferences icons",
     "options": [
       {
-        "key": "RVXSettingsMenuIcon",
+        "key": "ExtendedIcon",
         "value": "revanced_colored"
       }
     ]
@@ -16,14 +30,6 @@
         "value": "Outline"
       }
     ]
-  },
-  {
-    "patchName": "Custom branding name for YouTube",
-    "options": [
-      {
-        "key": "AppName",
-        "value": "YouTupe"
-      }
-    ]
   }
 ]
+        
