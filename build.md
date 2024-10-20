@@ -1,6 +1,6 @@
-YouTubeanddea: 19.29.37  
-YTmusic: 7.17.51  
 Ricktupe: 19.16.39  
+YTmusic: 7.17.51  
+YouTubeanddea: 19.30.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
