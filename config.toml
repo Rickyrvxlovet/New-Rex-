@@ -20,7 +20,7 @@ integrations-version = "v1.13.1-dev.3" #
 riplib = true
 
 [YouTube anddea]
-version = "19.29.37"
+version = "19.30.39"
 build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
